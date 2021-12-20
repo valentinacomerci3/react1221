@@ -1,0 +1,5 @@
+Date :12/12/12; Category: travel; Description: tickets; Import: 200
+
+Date : 12/3/21; Category: accomodation; Description: rent; Import: 1200
+
+Date : 3/10/20; Category: other; Description: furniture; Import:956
